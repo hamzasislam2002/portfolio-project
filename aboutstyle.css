@@ -1,0 +1,38 @@
+
+
+h1 {
+    margin: 100px;
+}
+
+h1.abouttext {
+    margin-top: 100px;
+    text-align: left;
+    /* padding-left: -50px; */
+    font-size: 100px;
+}
+
+a.nav-item.nav-link {
+
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h1.text-start {
+  font-size: 200px;
+}
+
+p.text-start {
+  font-size:55px;
+  margin-top: 250px;
+  
+  
+  
+}
+
+footer.a {
+
+  margin: 200px;
+  
+
+}
+

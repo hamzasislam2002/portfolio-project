@@ -1,0 +1,27 @@
+
+
+h1 {
+    margin: 100px;
+}
+
+a.nav-item.nav-link {
+
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h1.text-center {
+  font-size: 150px;
+
+}
+
+p {
+  font-size:75px;
+}
+
+footer.a {
+
+  margin: 200px;
+  
+
+}
